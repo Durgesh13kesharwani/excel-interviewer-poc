@@ -116,3 +116,6 @@ This project is licensed under the [MIT License](LICENSE).
 - [OpenAI JSON Mode](https://platform.openai.com/docs/guides/text-generation/json-mode)
 - [Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
 - [MediaDevices API](https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices)
+
+  ## Demonstration Video
+  - [Watch the POC Demo](https://drive.google.com/file/d/13nIB7yLRar2ahfb1eKrjW_2R6XO66Z61/view?pli=1)
